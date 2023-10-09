@@ -1,0 +1,7 @@
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\bin\Debug\EX06 static vs instancia.exe.config
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\bin\Debug\EX06 static vs instancia.exe
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\bin\Debug\EX06 static vs instancia.pdb
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\obj\Debug\EX06 static vs instancia.csproj.AssemblyReference.cache
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\obj\Debug\EX06 static vs instancia.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\obj\Debug\EX06 static vs instancia.exe
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\EX06 static vs instancia\obj\Debug\EX06 static vs instancia.pdb

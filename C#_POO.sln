@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX00", "EX00\EX00.csproj", "{1E5D93E6-BF1C-4027-898C-E392468428B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06 static vs instancia", "EX06 static vs instancia\EX06 static vs instancia.csproj", "{936ABDBC-CC01-431A-8252-6767DD84352E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX07 HERANCA", "EX07 HERANCA\EX07 HERANCA.csproj", "{636A2AAB-5E45-4D48-B114-F67318F9AA00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1E5D93E6-BF1C-4027-898C-E392468428B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5D93E6-BF1C-4027-898C-E392468428B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5D93E6-BF1C-4027-898C-E392468428B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936ABDBC-CC01-431A-8252-6767DD84352E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936ABDBC-CC01-431A-8252-6767DD84352E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936ABDBC-CC01-431A-8252-6767DD84352E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936ABDBC-CC01-431A-8252-6767DD84352E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
