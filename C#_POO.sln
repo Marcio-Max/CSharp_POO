@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06 static vs instancia", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX07 HERANCA", "EX07 HERANCA\EX07 HERANCA.csproj", "{636A2AAB-5E45-4D48-B114-F67318F9AA00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX08 Classes Abstratas e Poliformismo", "EX07 Classes Abstratas\EX08 Classes Abstratas e Poliformismo.csproj", "{2CCEADF5-B765-4953-97CE-D1DCAB12C83F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636A2AAB-5E45-4D48-B114-F67318F9AA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCEADF5-B765-4953-97CE-D1DCAB12C83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCEADF5-B765-4953-97CE-D1DCAB12C83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCEADF5-B765-4953-97CE-D1DCAB12C83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCEADF5-B765-4953-97CE-D1DCAB12C83F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
