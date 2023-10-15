@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EX07_HERANCA
+namespace EX09_Interface__Virtual_Sobrescrita
 {
-    public class Conta
-    {
+    public  abstract class Conta : IConta   //Aqui a interface serra IMPLEMNTADA nao herdada, podemos ter varias implemntacoes(Varias interfaces) 
+    {                                      //A classe Conta e abstract ou seja ela serra um modelo e nao pode ser instanciada
         //Construutor
         public Conta(int numero, double limite)
         {
@@ -42,7 +42,7 @@ namespace EX07_HERANCA
             return  Limite = valor;
         }
 
-        public virtual bool Sacar( double valor )
+        public virtual bool Sacar( double valor ) //propriedade VIRTUAL PERMITE QUE O METODO SEJA SOBRESVRITO EM QUALQUER OUTRA CLASSE
         {
             double saldoDisponivel = ConsultaSaldoDisponivel();
             if(saldoDisponivel < valor)

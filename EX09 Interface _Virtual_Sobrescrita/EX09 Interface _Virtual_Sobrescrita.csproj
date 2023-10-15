@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{636A2AAB-5E45-4D48-B114-F67318F9AA00}</ProjectGuid>
+    <ProjectGuid>{14857AD2-A4B6-446D-94B3-D11479576B65}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EX07_HERANCA</RootNamespace>
-    <AssemblyName>EX07 HERANCA</AssemblyName>
+    <RootNamespace>EX09_Interface__Virtual_Sobrescrita</RootNamespace>
+    <AssemblyName>EX09 Interface _Virtual_Sobrescrita</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,13 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conta.cs" />
-    <Compile Include="Contapoupanca.cs" />
+    <Compile Include="ContaCorrente.cs" />
     <Compile Include="IConta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EX07 HERANCA\EX07 HERANCA.csproj">
+      <Project>{636A2AAB-5E45-4D48-B114-F67318F9AA00}</Project>
+      <Name>EX07 HERANCA</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
