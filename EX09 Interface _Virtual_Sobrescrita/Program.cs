@@ -31,9 +31,6 @@ namespace EX09_Interface__Virtual_Sobrescrita
 
 
 
-
-
-
             Console.ReadKey();
         }
     }

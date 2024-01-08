@@ -14,11 +14,17 @@ namespace EX04_CONSTRUTORES
             //Criando instancias da classe Conta
             Conta conta = new Conta(123, 400);
 
-         
-            //conta.AdicionarLimite(1500);
+            Console.WriteLine("Quanto quer depositar?");
+            double deposito = double.Parse(Console.ReadLine());
+            conta.Deposita(deposito);
 
-            conta.Deposita(1500);
-            bool sacar = conta.Sacar(300);
+            Console.WriteLine("Quamto quer sacar?");
+            double saque = double.Parse(Console.ReadLine());
+            bool sacar = conta.Sacar(saque);
+
+            //conta.AdicionarLimite(1500);
+            //conta.Deposita(1500);
+            //bool sacar = conta.Sacar(300);
 
             if (sacar)
             {
@@ -26,7 +32,7 @@ namespace EX04_CONSTRUTORES
                 Console.WriteLine(" O Saldo atual de: " + conta.ConsultaSaldoDisponivel());
                 Console.WriteLine(" O numero da conta e:" + conta.Numero);
                 Console.WriteLine(" O Limite e de padrao: " + conta.Limite);
-               // Console.WriteLine(" O Limite e Adicionado: " + conta.AdicionarLimite());
+                // Console.WriteLine(" O Limite e Adicionado: " + conta.AdicionarLimite());
                 //Console.WriteLine(" O Saldo e de: " + conta.Saldo);
                 //Console.WriteLine(" O Limite e de: " + conta.Limite);
                 //Console.WriteLine(sacar);

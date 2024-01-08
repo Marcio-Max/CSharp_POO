@@ -1,0 +1,7 @@
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\bin\Debug\DigitalBank.exe.config
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\bin\Debug\DigitalBank.exe
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\bin\Debug\DigitalBank.pdb
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\obj\Debug\DigitalBank.csproj.AssemblyReference.cache
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\obj\Debug\DigitalBank.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\obj\Debug\DigitalBank.exe
+C:\Users\Marci\Videos\C# - ASP.NET\C#_POO\DigitalBank\DigitalBank\obj\Debug\DigitalBank.pdb
